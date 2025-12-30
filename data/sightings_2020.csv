@@ -1,0 +1,11 @@
+observation_id,date,location,species,count
+1,2020-01-15,Bahamas,Tiger Shark,2
+2,2020-02-10,Bahamas,Bull Shark,1
+3,2020-03-22,Cuba,Hammerhead Shark,3
+4,2020-04-05,Jamaica,Tiger Shark,1
+5,2020-05-18,Bahamas,Lemon Shark,2
+6,2020-06-30,Cuba,Bull Shark,1
+7,2020-07-14,Jamaica,Hammerhead Shark,4
+8,2020-08-09,Bahamas,Tiger Shark,3
+9,2020-09-25,Cuba,Lemon Shark,1
+10,2020-10-11,Jamaica,Bull Shark,2
